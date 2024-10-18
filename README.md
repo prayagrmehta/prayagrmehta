@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Computer Vision**
 
+- 🔭 I’m currently working on **ML based Project focused on image processing**
+
 - 💬 Ask me about **Python or DSA**
 
 - 📫 How to reach me **prayagrmehta.1011@gmail.com**
