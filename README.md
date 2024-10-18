@@ -52,23 +52,14 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=prayagrmehta&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prayagrmehta&theme=vue-dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prayagrmehta&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prayagrmehta&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=prayagrmehta&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Trophies:</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prayagrmehta" alt="prayagrmehta" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prayagrmehta&show_icons=true&locale=en&layout=compact" alt="prayagrmehta" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prayagrmehta&show_icons=true&locale=en" alt="prayagrmehta" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prayagrmehta&" alt="prayagrmehta" /></p>
