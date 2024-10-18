@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prayagrmehta&label=Profile%20views&color=0e75b6&style=flat" alt="prayagrmehta" /> </p>
 
-<p align="left"> <a href="https://github.com/prayagrmehta" target="blank"><img src="https://cdn-icons-png.flaticon.com/128/1051/1051326.png&style=for-the-badge" alt="prayagrmehta" /></a> </p>
+<p align="left"> <a href="https://twitter.com/prayagrmehta" target="blank"><img src="https://img.shields.io/twitter/follow/prayagrmehta?logo=twitter&style=for-the-badge" alt="prayagrmehta" /></a> </p>
 
 - 🌱 I’m currently learning **Computer Vision**
 
