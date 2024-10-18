@@ -50,7 +50,7 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-# 📊 GitHub Stats:
+<h3 align="left">📊 GitHub Stats:</h3>
 ![](https://github-readme-stats.vercel.app/api?username=prayagrmehta&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prayagrmehta&theme=vue-dark&hide_border=false)<br/>
