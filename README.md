@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **prayagrmehta.1011@gmail.com**
 
-- ⚡ Fun fact **I think you are looking at my profile!**
+- ⚡ Fun fact **jack of all trades - master of none**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
