@@ -63,5 +63,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=prayagrmehta&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 <h3 align="left">🔝 Top Contributed Repo</h3>
+
 ![](https://github-contributor-stats.vercel.app/api?username=prayagrmehta&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 
