@@ -58,9 +58,10 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prayagrmehta&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+<h3 align="left">🏆 GitHub Trophie:</h3>
+
 ![](https://github-profile-trophy.vercel.app/?username=prayagrmehta&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+<h3 align="left">🔝 Top Contributed Repo</h3>
 ![](https://github-contributor-stats.vercel.app/api?username=prayagrmehta&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 
