@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **prayagrmehta.1011@gmail.com**
 
-- ⚡ Fun fact **jack of all trades - master of none**
+- ⚡ Fun fact **I am Batman**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
