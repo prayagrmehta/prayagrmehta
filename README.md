@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python or DSA**
 
-- 📫 How to reach me **prayagrmehta.1011@gmail.com** or here
+- 📫 How to reach me **prayagrmehta.1011@gmail.com** or <a href="https://prayagmehta.onrender.com/contact/" target="blank">here</a>
 
 - ⚡ Fun fact **I am Batman**
 
