@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I am Batman**
 
-- 💻 Visit my Portfolio for more details about me.
+- 💻 Visit my <a href="https://prayagmehta.onrender.com/" target="blank">Portfolio</a> for more details about me.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
