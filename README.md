@@ -20,7 +20,7 @@
 <a href="https://twitter.com/prayagrmehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prayagrmehta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prayag-mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prayag-mehta" height="30" width="40" /></a>
 <a href="https://kaggle.com/prayag1011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prayag1011" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/prayagrmehta101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prayagrmehta101" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/prayagrmehta10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prayagrmehta101" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prayagrmehta_101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prayagrmehta_101" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prayag1011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prayag1011" height="30" width="40" /></a>
 </p>
