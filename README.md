@@ -9,11 +9,11 @@
 
 - 💬 Ask me about **Python or DSA**
 
-- 📫 How to reach me
-- **prayagrmehta.1011@gmail.com**
-- **https://prayagmehta.onrender.com/**
+- 📫 How to reach me **prayagrmehta.1011@gmail.com** or here
 
 - ⚡ Fun fact **I am Batman**
+
+- 💻 Visit my Portfolio for more details about me.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
