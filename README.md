@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ML based Project focused on image processing**
 
-- 💬 Ask me about **Python or DSA**
+- 💬 Ask me about **Python or OWASP/bug hunting**
 
 - 📫 How to reach me **prayagrmehta.1011@gmail.com** or <a href="https://prayagmehta.onrender.com/contact/" target="blank">here</a>
 
