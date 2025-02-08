@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Vision**
 
-- 🔭 I’m currently working on **ML based Project focused on image processing**
+- 🔭 I’m currently working on **Material science based Project focused on Deep learnign**
 
 - 💬 Ask me about **Python or OWASP/bug hunting**
 
