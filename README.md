@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prayag Mehta</h1>
-<h3 align="center">A passionate Software engineer from India</h3>
+<h3 align="center">A passionate Computer engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prayagrmehta&label=Profile%20views&color=0e75b6&style=flat" alt="prayagrmehta" /> </p>
 
